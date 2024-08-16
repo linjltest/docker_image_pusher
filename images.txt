@@ -1,2 +1,3 @@
 corentinth/it-tools:latest
-
+mongo:4.4.16
+mereith/van-blog:latest
